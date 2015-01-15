@@ -26,4 +26,5 @@ $ eval "$(ssh-agent -s)"
 # Agent pid 59566 -ответ
 $ ssh-add ~/.ssh/id_rsa
 
-
+после каждго коммита
+git push для переноса на github
