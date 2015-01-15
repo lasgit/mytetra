@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="1"/>
+ <content>
+  <node id="1" name="OpenSuse">
+   <recordtable>
+    <record dir="0000000001" url="" tags="MyTetra, Qt" author="" id="1" ctime="20081210124656" name="Welcome to MyTetra!" file="text.html"/>
+   </recordtable>
+   <node id="1421325963weodjniupr" name="Django">
+    <recordtable>
+     <record dir="1421326033rpxf2wikrn" crypt="0" url="" tags="" author="" id="1421326033b8b4vzeurn" ctime="20150115144713" name="Установка" file="text.html"/>
+     <record dir="1421326523ltt6oskik7" crypt="0" url="" tags="" author="" id="1421326523udx5ccbg6u" ctime="20150115145523" name="Django-apache" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node id="1421327181ojk6mc6kf7" name="Mac os">
+   <node id="14213271970dme9tlgxd" name="Установки"/>
+  </node>
+ </content>
+</root>
